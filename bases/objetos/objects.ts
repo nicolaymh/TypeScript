@@ -17,4 +17,6 @@
 
    console.log(!!flash.getName ? flash.getName() : "No existe la funcion");
    console.log(superman);
+
+   console.log(flash);
 })();
