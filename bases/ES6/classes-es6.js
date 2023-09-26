@@ -21,6 +21,6 @@
 
    const hulk = new Avenger("Hulk", 9001);
    const falcon = new FlyingAvenger("Falcon", 50);
-   console.log(hulk);
-   console.log(falcon);
+   // console.log(hulk);
+   // console.log(falcon);
 })();
