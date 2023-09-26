@@ -22,7 +22,7 @@
    const apocalipsis3 = Apocalipsis.CallApocalipsis();
    apocalipsis1.changeName("Xavier");
 
-   console.log(apocalipsis1, apocalipsis2, apocalipsis3);
+   // console.log(apocalipsis1, apocalipsis2, apocalipsis3);
 
    //  const apocalipsis1 = new Apocalipsis("Soy Apocalipsis1... el unico");
    //  const apocalipsis2 = new Apocalipsis("Soy Apocalipsis2... el unico");
